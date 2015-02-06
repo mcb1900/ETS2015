@@ -6,8 +6,6 @@ public class Pepe {
 		
 		System.out.print("Hola");
 		
-		
-
 	}
 	
 	
